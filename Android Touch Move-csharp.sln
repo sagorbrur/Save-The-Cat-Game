@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{10B8BD25-DD8D-7387-40E5-8734EC55B9BB}") = "Android Touch Move", "Assembly-CSharp-firstpass-vs.csproj", "{3B512C77-1D9B-0764-0FF3-F80EC35ABDAC}"
+EndProject
+Project("{10B8BD25-DD8D-7387-40E5-8734EC55B9BB}") = "Android Touch Move", "Assembly-CSharp-vs.csproj", "{2971B6CC-5A12-CBF5-133B-68A52ABA12A3}"
+EndProject
+Project("{10B8BD25-DD8D-7387-40E5-8734EC55B9BB}") = "Android Touch Move", "Assembly-CSharp-Editor-vs.csproj", "{FCE60B13-5A4D-42DD-B8A5-EEA0E1B297EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B512C77-1D9B-0764-0FF3-F80EC35ABDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B512C77-1D9B-0764-0FF3-F80EC35ABDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B512C77-1D9B-0764-0FF3-F80EC35ABDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B512C77-1D9B-0764-0FF3-F80EC35ABDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2971B6CC-5A12-CBF5-133B-68A52ABA12A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2971B6CC-5A12-CBF5-133B-68A52ABA12A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2971B6CC-5A12-CBF5-133B-68A52ABA12A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2971B6CC-5A12-CBF5-133B-68A52ABA12A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE60B13-5A4D-42DD-B8A5-EEA0E1B297EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE60B13-5A4D-42DD-B8A5-EEA0E1B297EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE60B13-5A4D-42DD-B8A5-EEA0E1B297EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE60B13-5A4D-42DD-B8A5-EEA0E1B297EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
